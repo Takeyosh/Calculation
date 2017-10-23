@@ -10,6 +10,7 @@ public class Calculation_main {
 		System.out.println("Imput Number m>");
 		int m=Integer.parseInt(scan.next());
 		
+		
 		System.out.println("Imput Number n>");
 		int n=Integer.parseInt(scan.next());
 		
